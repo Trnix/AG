@@ -31,7 +31,7 @@ DEBUG_LOG = INSTALL_DIR / "python_debug.log"
 CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的域名
 
 # ====== 全局可配置参数（可直接在此处修改） ======
-USER_NAME = "rurutia"         # 用户名
+USER_NAME = "arc"         # 用户名
 UUID = "60301b2c-fd25-4779-97d3-8c27898098a8"                     # UUID，留空则自动生成
 PORT = 49999                   # Vmess端口，留空或0则自动生成
 DOMAIN = "choreo.chongyin.tk"                   # 域名，留空则自动获取
