@@ -35,7 +35,7 @@ USER_NAME = "arc"         # 用户名
 UUID = "60301b2c-fd25-4779-97d3-8c27898098a8"                     # UUID，留空则自动生成
 PORT = 49999                   # Vmess端口，留空或0则自动生成
 DOMAIN = "choreo.chongyin.tk"                   # 域名，留空则自动获取
-CF_TOKEN = "eyJhIjoiOTgzOTNiMjFjN2I1MmY2YWQ5MDcwNTQ4YjFmNzFlZmMiLCJ0IjoiMDFiYmQ1ZjgtMWUxOC00MTFkLTgxYjktZmM2MThkZTM1MDBhIiwicyI6Ik1EWXlZbVptTkRrdE9XTmtNUzAwWVdFd0xUZzJOekl0WWprMk5HTXhPVFF6TlRCbCJ9"                 # Cloudflare Token，留空则用Quick Tunnel
+CF_TOKEN = "eyJhIjoiOTgzOTNiMjFjN2I1MmY2YWQ5MDcwNTQ4YjFmNzFlZmMiLCJ0IjoiYmQ5ZTE5OWItYTYxZi00NGUxLWJiZTQtZDI2MDRlNTBiYjQzIiwicyI6Ik9XSmxaR05oWVRFdE9EUmpaUzAwTkdNMkxUaGhObVl0TVRObFpUY3lNVFl6TkdJMyJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
 # 添加命令行参数解析
