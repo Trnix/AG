@@ -31,11 +31,11 @@ DEBUG_LOG = INSTALL_DIR / "python_debug.log"
 CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的域名
 
 # ====== 全局可配置参数（可直接在此处修改） ======
-USER_NAME = "arc"         # 用户名
-UUID = "60301b2c-fd25-4779-97d3-8c27898098a8"                     # UUID，留空则自动生成
+USER_NAME = "rurutia"         # 用户名
+UUID = "4500c33e-6831-4d3f-a523-f9f858cf1c48"                     # UUID，留空则自动生成
 PORT = 49999                   # Vmess端口，留空或0则自动生成
-DOMAIN = "choreo.chongyin.tk"                   # 域名，留空则自动获取
-CF_TOKEN = "eyJhIjoiOTgzOTNiMjFjN2I1MmY2YWQ5MDcwNTQ4YjFmNzFlZmMiLCJ0IjoiYmQ5ZTE5OWItYTYxZi00NGUxLWJiZTQtZDI2MDRlNTBiYjQzIiwicyI6Ik9XSmxaR05oWVRFdE9EUmpaUzAwTkdNMkxUaGhObVl0TVRObFpUY3lNVFl6TkdJMyJ9"                 # Cloudflare Token，留空则用Quick Tunnel
+DOMAIN = "stream.chongyin.tk"                   # 域名，留空则自动获取
+CF_TOKEN = "eyJhIjoiOTgzOTNiMjFjN2I1MmY2YWQ5MDcwNTQ4YjFmNzFlZmMiLCJ0IjoiNGFiMDA1ZDgtZDVhYi00NDJjLWE0YTQtM2E1NDQ3NGZjMzBiIiwicyI6IllUUTRNR05sWkRRdFpqZzJZUzAwWVRObUxUZzFOakV0Tm1SalpEaGtOR1E0TnpJeCJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
 # 添加命令行参数解析
